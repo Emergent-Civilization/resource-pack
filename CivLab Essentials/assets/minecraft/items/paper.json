@@ -1,0 +1,45 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "cases": [
+            {
+                "when": "bandage",
+                "model": {
+						"type": "range_dispatch",
+						"property": "count",
+						"scale": 64,
+						"entries": [ {
+
+			  	"threshold": 0,
+				
+				  "model": {
+					"type": "minecraft:model",
+					"model": "civlabs:item/bandage"
+				  }
+			},
+      {
+				  "threshold": 6,
+				  "model": {
+					"type": "minecraft:model",
+					"model": "civlabs:item/bandage_over_six"
+				}
+			}
+    ]
+}
+			},
+  {
+                "when": "blueprint",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "civlabs:item/blueprint"
+                }
+            }
+	],
+
+        "fallback": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/paper"
+                }
+    }
+}
