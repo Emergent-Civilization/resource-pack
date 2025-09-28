@@ -28,7 +28,7 @@ jobs:
     - name: repack the pack
       run: zip -r pack.zip ./
     - name: upload pack
-      uses: softprops/action-gh-release@v2
+      uses: softprops/action-gh-release@v5
       with:
         name: automated pack.zip release
         files: pack.zip
