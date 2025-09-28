@@ -40,7 +40,7 @@ jobs:
       uses: ncipollo/release-action@v1
       with:
         name: automated pack.zip release
-        artifacts: pack.zip
+        artifacts: pack/resource-pack-main/pack.zip
         commit: main
         tag: ${{ github.event.inputs.tag_name }}
         # tag_name: automatedRelease
