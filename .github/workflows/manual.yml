@@ -30,5 +30,7 @@ jobs:
     - name: upload pack
       uses: softprops/action-gh-release@v2
       with:
+        name: automated pack.zip release
         files: pack.zip
         make_latest: true
+        generate_release_notes: true
