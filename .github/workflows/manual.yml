@@ -28,10 +28,9 @@ jobs:
     - name: repack the pack
       run: zip -r pack.zip ./
     - name: upload pack
-      uses: softprops/action-gh-release@v5
+      uses: actions/checkout@v5
       with:
         name: automated pack.zip release
         files: pack.zip
-        tag_name: automatedRelease
         make_latest: true
         generate_release_notes: true
