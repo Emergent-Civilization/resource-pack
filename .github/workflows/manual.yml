@@ -31,7 +31,7 @@ jobs:
     - name: go into pack dir
       run: cd $GITHUB_WORKSPACE
     - name: repack the pack
-      run: zip -r pack.zip ./
+      run: zip -r pack.zip ./*
     
     - name: upload pack
       uses: ncipollo/release-action@v1
