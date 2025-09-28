@@ -26,21 +26,18 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
-    - name: download latest pack
-      run: curl -Lo github-pack.zip https://github.com/Emergent-Civilization/resource-pack/archive/refs/heads/main.zip
-    - name: unzip pack
-      run: unzip github-pack.zip -d pack
+    - uses: actions/checkout@v4
+      name: checkout the repod pack
     - name: go into pack dir
-      run: cd pack/resource-pack-main
+      run: cd resource-pack-main
     - name: repack the pack
       run: zip -r pack.zip ./
-    - uses: actions/checkout@v4
-      name: checkout the repo
+    
     - name: upload pack
       uses: ncipollo/release-action@v1
       with:
         name: automated pack.zip release
-        artifacts: pack/resource-pack-main/pack.zip
+        artifacts: pack.zip
         commit: main
         tag: ${{ github.event.inputs.tag_name }}
         # tag_name: automatedRelease
