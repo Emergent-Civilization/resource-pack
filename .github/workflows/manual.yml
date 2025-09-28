@@ -32,5 +32,6 @@ jobs:
       with:
         name: automated pack.zip release
         files: pack.zip
+        tag_name: automatedRelease
         make_latest: true
         generate_release_notes: true
