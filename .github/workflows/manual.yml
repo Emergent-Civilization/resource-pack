@@ -6,11 +6,11 @@ name: Manual workflow
 # or API.
 on:
   workflow_dispatch:
-    inputs:
-      tag_name:
-        description: 'The Git tag for this release (e.g., v1.0.0, v1.0.1)'
-        required: true
-        type: string
+    # inputs:
+    #   tag_name:
+    #     description: 'The Git tag for this release (e.g., v1.0.0, v1.0.1)'
+    #     required: true
+    #     type: string
     # Inputs the workflow accepts.
 
 
