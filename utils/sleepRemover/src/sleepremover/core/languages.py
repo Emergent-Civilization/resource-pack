@@ -150,7 +150,6 @@ def process_sleep_messages(output_path: str) -> None:
             processed_msg = processed_msg.replace("%s/%s", "???")
         
         # Replace %1$s, %2$s, etc. with ??
-        import re
         processed_msg = re.sub(r'%\d+\$s', '??', processed_msg)
         
         # Replace remaining %s with ??

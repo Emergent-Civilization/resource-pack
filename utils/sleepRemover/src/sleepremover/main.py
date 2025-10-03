@@ -1,5 +1,5 @@
 import argparse
-from sleepremover.core.languages import get_language_codes, get_language_files, process_sleep_messages
+from sleepremover.core.languages import get_language_files, process_sleep_messages
 
 def main():
     parser = argparse.ArgumentParser(description="Sleep Remover - Process Minecraft language files")
