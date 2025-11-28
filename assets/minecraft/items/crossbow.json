@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/crossbow"
+    },
+    "cases": [
+      {
+        "when": "clap",
+        "model": {
+          "type": "condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "range_dispatch",
+            "property": "minecraft:crossbow/pull",
+            "entries": [
+              {
+                "threshold": 0.0,
+                "model": {
+                  "type": "model",
+                  "model": "item/clap_pulling"
+                }
+              },
+              {
+                "threshold": 0.5,
+                "model": {
+                  "type": "model",
+                  "model": "item/clap_special_idle"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "model",
+              "model": "item/clap"
+            }
+          },
+          "on_false": {
+            "type": "model",
+            "model": "item/clap"
+          }
+        }
+      },
+      {
+        "when": "point",
+        "model": {
+          "type": "model",
+          "model": "item/point"
+        }
+      }
+    ]
+  }
+}
