@@ -1,0 +1,96 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/diamond"
+        },
+        "cases": [
+            {
+                "when": "armor_plate_diamond",
+                "model": {
+                    "type": "model",
+                    "model": "item/armor_plate_diamond"
+                }
+            },
+            {
+                "when": "diamond_armor_plateset",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_armor_plateset"
+                }
+            },
+           {
+                "when": "heated_diamond_stack",
+                "model": {
+                    "type": "model",
+                    "model": "item/heated_diamond_stack"
+                }
+            },
+           {
+                "when": "diamond_helm",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_helm"
+                }
+            },
+           {
+                "when": "diamond_breastplate",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_breastplate"
+                }
+            },
+           {
+                "when": "diamond_greaves",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_greaves"
+                }
+            },
+           {
+                "when": "diamond_sabaton",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_sabaton"
+                }
+            },
+           {
+                "when": "diamond_sword_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_sword_head"
+                }
+            },
+           {
+                "when": "diamond_axe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_axe_head"
+                }
+            },
+           {
+                "when": "diamond_pickaxe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_pickaxe_head"
+                }
+            },
+           {
+                "when": "diamond_hoe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_hoe_head"
+                }
+            },
+           {
+                "when": "diamond_shovel_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_shovel_head"
+                }
+            }
+        ]
+    }
+}

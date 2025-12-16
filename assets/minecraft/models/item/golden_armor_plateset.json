@@ -1,0 +1,6 @@
+{
+    "parent": "item/gold_ingot",
+    "textures": {
+        "layer0": "item/golden_armor_plateset"
+    }
+}

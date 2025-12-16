@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 64,
-    "description": "Make Numbers into Words",
-    "supported_formats": {
-      "min_inclusive": 30,
-      "max_inclusive": 999
-    }
+    "pack_format": 55,
+	"supported_formats": {
+            "min_inclusive": 8,
+            "max_inclusive": 69
+        },
+    "description": "§7Resources for §fCivlabs Xmas§7."
   }
 }
