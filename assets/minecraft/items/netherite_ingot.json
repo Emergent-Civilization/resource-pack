@@ -1,0 +1,96 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/netherite_ingot"
+        },
+        "cases": [
+            {
+                "when": "armor_plate_netherite",
+                "model": {
+                    "type": "model",
+                    "model": "item/armor_plate_netherite"
+                }
+            },
+            {
+                "when": "netherite_armor_plateset",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_armor_plateset"
+                }
+            },
+           {
+                "when": "heated_netherite_stack",
+                "model": {
+                    "type": "model",
+                    "model": "item/heated_netherite_stack"
+                }
+            },
+           {
+                "when": "netherite_helm",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_helm"
+                }
+            },
+           {
+                "when": "netherite_breastplate",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_breastplate"
+                }
+            },
+           {
+                "when": "netherite_greaves",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_greaves"
+                }
+            },
+           {
+                "when": "netherite_sabaton",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_sabaton"
+                }
+            },
+           {
+                "when": "netherite_sword_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_sword_head"
+                }
+            },
+           {
+                "when": "netherite_axe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_axe_head"
+                }
+            },
+           {
+                "when": "netherite_pickaxe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_pickaxe_head"
+                }
+            },
+           {
+                "when": "netherite_hoe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_hoe_head"
+                }
+            },
+           {
+                "when": "netherite_shovel_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_shovel_head"
+                }
+            }
+        ]
+    }
+}

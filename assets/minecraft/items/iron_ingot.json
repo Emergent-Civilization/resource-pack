@@ -1,0 +1,103 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_ingot"
+        },
+        "cases": [
+            {
+                "when": "armor_plate_iron",
+                "model": {
+                    "type": "model",
+                    "model": "item/armor_plate_iron"
+                }
+            },
+            {
+                "when": "iron_armor_plateset",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_armor_plateset"
+                }
+            },
+            {
+                "when": "armor_plate_chainmail",
+                "model": {
+                    "type": "model",
+                    "model": "item/armor_plate_chainmail"
+                }
+            },
+           {
+                "when": "heated_iron_stack",
+                "model": {
+                    "type": "model",
+                    "model": "item/heated_iron_stack"
+                }
+            },
+           {
+                "when": "iron_helm",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_helm"
+                }
+            },
+           {
+                "when": "iron_breastplate",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_breastplate"
+                }
+            },
+           {
+                "when": "iron_greaves",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_greaves"
+                }
+            },
+           {
+                "when": "iron_sabaton",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_sabaton"
+                }
+            },
+           {
+                "when": "iron_sword_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_sword_head"
+                }
+            },
+           {
+                "when": "iron_axe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_axe_head"
+                }
+            },
+           {
+                "when": "iron_pickaxe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_pickaxe_head"
+                }
+            },
+           {
+                "when": "iron_hoe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_hoe_head"
+                }
+            },
+           {
+                "when": "iron_shovel_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_shovel_head"
+                }
+            }
+        ]
+    }
+}

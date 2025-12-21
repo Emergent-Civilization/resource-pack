@@ -1,0 +1,96 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/gold_ingot"
+        },
+        "cases": [
+            {
+                "when": "armor_plate_gold",
+                "model": {
+                    "type": "model",
+                    "model": "item/armor_plate_gold"
+                }
+            },
+            {
+                "when": "gold_armor_plateset",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_armor_plateset"
+                }
+            },
+           {
+                "when": "heated_gold_stack",
+                "model": {
+                    "type": "model",
+                    "model": "item/heated_gold_stack"
+                }
+            },
+           {
+                "when": "gold_helm",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_helm"
+                }
+            },
+           {
+                "when": "gold_breastplate",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_breastplate"
+                }
+            },
+           {
+                "when": "gold_greaves",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_greaves"
+                }
+            },
+           {
+                "when": "gold_sabaton",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_sabaton"
+                }
+            },
+           {
+                "when": "gold_sword_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_sword_head"
+                }
+            },
+           {
+                "when": "gold_axe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_axe_head"
+                }
+            },
+           {
+                "when": "gold_pickaxe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_pickaxe_head"
+                }
+            },
+           {
+                "when": "gold_hoe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_hoe_head"
+                }
+            },
+           {
+                "when": "gold_shovel_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_shovel_head"
+                }
+            }
+        ]
+    }
+}
