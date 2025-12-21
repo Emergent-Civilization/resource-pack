@@ -28,11 +28,11 @@
     ]
 }
 			},
-  {
+            {
                 "when": "blueprint",
                 "model": {
-                    "type": "minecraft:model",
-                    "model": "civlabs:item/blueprint"
+                    "type": "model",
+                    "model": "item/blueprint"
                 }
             }
 	],
