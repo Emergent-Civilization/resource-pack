@@ -1,0 +1,7 @@
+{
+    "parent": "block/emissive_leaves",
+    "textures": {
+        "all": "block/spruce_leaves/spruce_leaves_7",
+        "emissive": "block/spruce_leaves/spruce_leaves_7_e"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flower_pot_cross_emissive",
+  "textures": {
+    "cross_emissive": "minecraft:block/spruce_sapling_e",
+    "plant": "minecraft:block/spruce_sapling"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_emissive",
+  "textures": {
+    "cross": "minecraft:block/spruce_sapling",
+    "cross_emissive": "minecraft:block/spruce_sapling_e"
+  }
+}

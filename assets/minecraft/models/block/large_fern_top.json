@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_emissive",
+  "textures": {
+    "cross": "minecraft:block/large_fern_top",
+    "cross_emissive": "minecraft:block/large_fern_top_e"
+  }
+}
