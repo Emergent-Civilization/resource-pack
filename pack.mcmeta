@@ -1,11 +1,11 @@
 {
   "pack": {
     "pack_format": 55,
-	"supported_formats": {
+	  "supported_formats": {
             "min_inclusive": 8,
             "max_inclusive": 69
         },
-    "description": "§7Resources for §fCivlabs Xmas§7.",
+    "description": "§7Resources for §fCivlabs Xmas§7."
 
   },
   "overlays": {
