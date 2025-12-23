@@ -1,0 +1,7 @@
+{
+    "parent": "item/leather_leggings",
+    "textures": {
+        "layer0": "item/copper_leggings",
+        "layer1": "item/copper_leggings"
+    }
+}
