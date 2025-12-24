@@ -1,7 +1,7 @@
 {
-    "parent": "block/emissive_leaves",
-    "textures": {
-        "all": "block/spruce_leaves/spruce_leaves_4",
-        "emissive": "block/spruce_leaves/spruce_leaves_4_e"
-    }
+  "parent": "block/emissive_leaves",
+  "textures": {
+    "all": "block/spruce_leaves/spruce_leaves_4",
+    "emissive": "block/spruce_leaves/spruce_leaves_4_e"
+  }
 }

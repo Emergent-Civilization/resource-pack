@@ -1,6 +1,6 @@
 {
-    "parent": "item/diamond",
-    "textures": {
-        "layer0": "item/diamond_greaves"
-    }
+  "parent": "item/diamond",
+  "textures": {
+    "layer0": "item/diamond_greaves"
+  }
 }

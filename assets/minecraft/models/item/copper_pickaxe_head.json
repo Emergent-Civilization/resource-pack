@@ -1,6 +1,6 @@
 {
-    "parent": "item/copper_ingot",
-    "textures": {
-        "layer0": "item/copper_pickaxe_head"
-    }
+  "parent": "item/copper_ingot",
+  "textures": {
+    "layer0": "item/copper_pickaxe_head"
+  }
 }

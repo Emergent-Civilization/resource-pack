@@ -1,6 +1,6 @@
 {
-    "parent": "item/iron_ingot",
-    "textures": {
-        "layer0": "item/heated_stack"
-    }
+  "parent": "item/iron_ingot",
+  "textures": {
+    "layer0": "item/heated_stack"
+  }
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "item/stone_shovel",
-    "textures": {
-        "layer0": "item/copper_shovel"
-    }
+  "parent": "item/stone_shovel",
+  "textures": {
+    "layer0": "item/copper_shovel"
+  }
 }

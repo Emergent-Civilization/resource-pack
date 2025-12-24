@@ -1,6 +1,6 @@
 {
-    "parent": "item/stone_pickaxe",
-    "textures": {
-        "layer0": "item/copper_pickaxe"
-    }
+  "parent": "item/stone_pickaxe",
+  "textures": {
+    "layer0": "item/copper_pickaxe"
+  }
 }

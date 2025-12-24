@@ -1,7 +1,7 @@
 {
-    "parent": "item/leather_boots",
-    "textures": {
-        "layer0": "item/copper_boots",
-	"layer1": "item/copper_boots"
-    }
+  "parent": "item/leather_boots",
+  "textures": {
+    "layer0": "item/copper_boots",
+    "layer1": "item/copper_boots"
+  }
 }

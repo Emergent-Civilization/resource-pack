@@ -1,6 +1,6 @@
 {
-    "parent": "item/iron_ingot",
-    "textures": {
-        "layer0": "item/iron_greaves"
-    }
+  "parent": "item/iron_ingot",
+  "textures": {
+    "layer0": "item/iron_greaves"
+  }
 }

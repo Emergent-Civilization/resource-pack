@@ -1,19 +1,19 @@
 {
-    "model": {
-        "type": "select",
-        "property": "custom_model_data",
-        "fallback": {
-            "type": "model",
-            "model": "item/leather"
-        },
-        "cases": [
-            {
-                "when": "padded_leather",
-                "model": {
-                    "type": "model",
-                    "model": "item/padded_leather"
-                }
-            }
-        ]
-    }
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/leather"
+    },
+    "cases": [
+      {
+        "when": "padded_leather",
+        "model": {
+          "type": "model",
+          "model": "item/padded_leather"
+        }
+      }
+    ]
+  }
 }

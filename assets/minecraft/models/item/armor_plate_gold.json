@@ -1,6 +1,6 @@
 {
-    "parent": "item/gold_ingot",
-    "textures": {
-        "layer0": "item/armor_plate_gold"
-    }
+  "parent": "item/gold_ingot",
+  "textures": {
+    "layer0": "item/armor_plate_gold"
+  }
 }
