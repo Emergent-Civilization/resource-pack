@@ -1,6 +1,6 @@
 {
-  "parent": "item/netherite_ingot",
-  "textures": {
-    "layer0": "item/netherite_sabaton"
-  }
+    "parent": "item/netherite_ingot",
+    "textures": {
+        "layer0": "item/netherite_sabaton"
+    }
 }

@@ -1,6 +1,6 @@
 {
-  "parent": "item/stone_sword",
-  "textures": {
-    "layer0": "item/copper_sword"
-  }
+    "parent": "item/stone_sword",
+    "textures": {
+        "layer0": "item/copper_sword"
+    }
 }

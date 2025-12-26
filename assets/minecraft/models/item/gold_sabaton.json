@@ -1,6 +1,6 @@
 {
-  "parent": "item/gold_ingot",
-  "textures": {
-    "layer0": "item/gold_sabaton"
-  }
+    "parent": "item/gold_ingot",
+    "textures": {
+        "layer0": "item/gold_sabaton"
+    }
 }

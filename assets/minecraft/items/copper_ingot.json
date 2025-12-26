@@ -1,96 +1,96 @@
 {
-  "model": {
-    "type": "select",
-    "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "item/copper_ingot"
-    },
-    "cases": [
-      {
-        "when": "armor_plate_copper",
-        "model": {
-          "type": "model",
-          "model": "item/armor_plate_copper"
-        }
-      },
-      {
-        "when": "copper_armor_plateset",
-        "model": {
-          "type": "model",
-          "model": "item/copper_armor_plateset"
-        }
-      },
-      {
-        "when": "heated_copper_stack",
-        "model": {
-          "type": "model",
-          "model": "item/heated_copper_stack"
-        }
-      },
-      {
-        "when": "copper_helm",
-        "model": {
-          "type": "model",
-          "model": "item/copper_helm"
-        }
-      },
-      {
-        "when": "copper_breastplate",
-        "model": {
-          "type": "model",
-          "model": "item/copper_breastplate"
-        }
-      },
-      {
-        "when": "copper_greaves",
-        "model": {
-          "type": "model",
-          "model": "item/copper_greaves"
-        }
-      },
-      {
-        "when": "copper_sabaton",
-        "model": {
-          "type": "model",
-          "model": "item/copper_sabaton"
-        }
-      },
-      {
-        "when": "copper_sword_head",
-        "model": {
-          "type": "model",
-          "model": "item/copper_sword_head"
-        }
-      },
-      {
-        "when": "copper_axe_head",
-        "model": {
-          "type": "model",
-          "model": "item/copper_axe_head"
-        }
-      },
-      {
-        "when": "copper_pickaxe_head",
-        "model": {
-          "type": "model",
-          "model": "item/copper_pickaxe_head"
-        }
-      },
-      {
-        "when": "copper_hoe_head",
-        "model": {
-          "type": "model",
-          "model": "item/copper_hoe_head"
-        }
-      },
-      {
-        "when": "copper_shovel_head",
-        "model": {
-          "type": "model",
-          "model": "item/copper_shovel_head"
-        }
-      }
-    ]
-  }
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/copper_ingot"
+        },
+        "cases": [
+            {
+                "when": "armor_plate_copper",
+                "model": {
+                    "type": "model",
+                    "model": "item/armor_plate_copper"
+                }
+            },
+            {
+                "when": "copper_armor_plateset",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_armor_plateset"
+                }
+            },
+           {
+                "when": "heated_copper_stack",
+                "model": {
+                    "type": "model",
+                    "model": "item/heated_copper_stack"
+                }
+            },
+           {
+                "when": "copper_helm",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_helm"
+                }
+            },
+           {
+                "when": "copper_breastplate",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_breastplate"
+                }
+            },
+           {
+                "when": "copper_greaves",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_greaves"
+                }
+            },
+           {
+                "when": "copper_sabaton",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_sabaton"
+                }
+            },
+           {
+                "when": "copper_sword_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_sword_head"
+                }
+            },
+           {
+                "when": "copper_axe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_axe_head"
+                }
+            },
+           {
+                "when": "copper_pickaxe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_pickaxe_head"
+                }
+            },
+           {
+                "when": "copper_hoe_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_hoe_head"
+                }
+            },
+           {
+                "when": "copper_shovel_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_shovel_head"
+                }
+            }
+        ]
+    }
 }

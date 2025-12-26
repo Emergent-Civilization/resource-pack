@@ -1,6 +1,6 @@
 {
-  "parent": "item/diamond",
-  "textures": {
-    "layer0": "item/diamond_pickaxe_head"
-  }
+    "parent": "item/diamond",
+    "textures": {
+        "layer0": "item/diamond_pickaxe_head"
+    }
 }

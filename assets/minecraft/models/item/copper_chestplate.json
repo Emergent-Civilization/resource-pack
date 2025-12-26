@@ -1,6 +1,6 @@
 {
-  "parent": "item/leather_chestplate",
-  "textures": {
-    "layer0": "item/copper_chestplate"
-  }
+    "parent": "item/leather_chestplate",
+    "textures": {
+        "layer0": "item/copper_chestplate"
+    }
 }

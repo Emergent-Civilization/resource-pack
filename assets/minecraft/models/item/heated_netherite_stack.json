@@ -1,6 +1,6 @@
 {
-  "parent": "item/netherite_ingot",
-  "textures": {
-    "layer0": "item/heated_stack"
-  }
+    "parent": "item/netherite_ingot",
+    "textures": {
+        "layer0": "item/heated_stack"
+    }
 }

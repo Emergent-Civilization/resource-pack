@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/shears"
+        },
+        "cases": [
+            {
+                "when": "copper_shear",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_shear"
+                }
+            },
+            {
+                "when": "gold_shear",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_shear"
+                }
+            },
+            {
+                "when": "diamond_shear",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_shear"
+                }
+            },
+            {
+                "when": "netherite_shear",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_shear"
+                }
+            },
+            {
+                "when": "wood_shear",
+                "model": {
+                    "type": "model",
+                    "model": "item/wood_shear"
+                }
+            }
+        ]
+    }
+}

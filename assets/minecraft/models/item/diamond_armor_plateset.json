@@ -1,6 +1,6 @@
 {
-  "parent": "item/diamond",
-  "textures": {
-    "layer0": "item/diamond_armor_plateset"
-  }
+    "parent": "item/diamond",
+    "textures": {
+        "layer0": "item/diamond_armor_plateset"
+    }
 }
