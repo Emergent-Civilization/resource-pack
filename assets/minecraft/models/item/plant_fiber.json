@@ -1,0 +1,6 @@
+{
+    "parent": "item/string",
+    "textures": {
+        "layer0": "item/plant_fiber"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/leather_helmet",
+    "textures": {
+        "layer0": "item/copper_helmet",
+	"layer1": "item/copper_helmet"
+    }
+}

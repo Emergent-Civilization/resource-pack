@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/string"
+        },
+        "cases": [
+            {
+                "when": "plant_fiber",
+                "model": {
+                    "type": "model",
+                    "model": "item/plant_fiber"
+                }
+            }
+        ]
+    }
+}

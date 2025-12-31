@@ -1,0 +1,61 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/trident"
+        },
+        "cases": [
+            {
+                "when": "wooden_javelin",
+                "model": {
+                    "type": "model",
+                    "model": "item/wooden_javelin"
+                }
+            },
+            {
+                "when": "stone_javelin",
+                "model": {
+                    "type": "model",
+                    "model": "item/stone_javelin"
+                }
+            },
+            {
+                "when": "copper_javelin",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_javelin"
+                }
+            },
+            {
+                "when": "gold_javelin",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_javelin"
+                }
+            },
+            {
+                "when": "iron_javelin",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_javelin"
+                }
+            },
+            {
+                "when": "diamond_javelin",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_javelin"
+                }
+            },
+            {
+                "when": "netherite_javelin",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_javelin"
+                }
+            }
+        ]
+    }
+}
