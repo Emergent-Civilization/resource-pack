@@ -90,6 +90,13 @@
                     "type": "model",
                     "model": "item/copper_shovel_head"
                 }
+            },
+           {
+                "when": "copper_spear_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_spear_head"
+                }
             }
         ]
     }

@@ -90,6 +90,13 @@
                     "type": "model",
                     "model": "item/gold_shovel_head"
                 }
+            },
+           {
+                "when": "gold_spear_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_spear_head"
+                }
             }
         ]
     }

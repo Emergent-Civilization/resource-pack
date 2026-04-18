@@ -90,6 +90,13 @@
                     "type": "model",
                     "model": "item/diamond_shovel_head"
                 }
+            },
+           {
+                "when": "diamond_spear_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/diamond_spear_head"
+                }
             }
         ]
     }

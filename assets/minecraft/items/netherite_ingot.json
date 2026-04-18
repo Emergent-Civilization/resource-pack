@@ -90,6 +90,13 @@
                     "type": "model",
                     "model": "item/netherite_shovel_head"
                 }
+            },
+           {
+                "when": "netherite_spear_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_spear_head"
+                }
             }
         ]
     }

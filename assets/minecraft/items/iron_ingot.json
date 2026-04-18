@@ -97,6 +97,13 @@
                     "type": "model",
                     "model": "item/iron_shovel_head"
                 }
+            },
+           {
+                "when": "iron_spear_head",
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_spear_head"
+                }
             }
         ]
     }
