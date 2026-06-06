@@ -1,9 +1,1 @@
-{
-    "sources": [
-        {
-            "type": "single",
-            "resource": "block/missingno",
-            "sprite": "missingo"
-        }
-    ]
-}
+{"sources":[{"type":"single","resource":"block/missingno","sprite":"missingo"},{"type":"single","resource":"minecraft:item/crossbow_standby"}]}
