@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "?? lusores dormientes ex ??"
-=======
     "container.chest": "Cista\uec01\uea01",
     "entity.minecraft.chest_minecart": "Plaustrum cista\uec02\uea02",
     "container.barrel": "Cupa\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fQuaere res",
     "itemGroup.spawnEggs": "\u00a7fOva creationis",
     "itemGroup.tools": "\u00a7fInstrumenta resque quibus uti potes"
->>>>>>> Stashed changes
 }

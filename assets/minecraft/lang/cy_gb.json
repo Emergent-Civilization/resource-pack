@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? chwaraewr yn cysgu"
-=======
     "container.chest": "Cist\uec01\uea01",
     "entity.minecraft.chest_minecart": "Cart Pwll gyda Chist\uec02\uea02",
     "container.barrel": "Casgen\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fChwilio Eitemau",
     "itemGroup.spawnEggs": "\u00a7f\u0174yau Geni",
     "itemGroup.tools": "\u00a7fOffer a Thaclau"
->>>>>>> Stashed changes
 }

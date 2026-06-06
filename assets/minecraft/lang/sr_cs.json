@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? igrača spava"
-=======
     "container.chest": "Kov\u010deg\uec01\uea01",
     "entity.minecraft.chest_minecart": "Rudarska kolica sa kov\u010degom\uec02\uea02",
     "container.barrel": "Bure\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fPretraga",
     "itemGroup.spawnEggs": "\u00a7fJaja za stvaranje",
     "itemGroup.tools": "\u00a7fAlati i uslu\u017eni predmeti"
->>>>>>> Stashed changes
 }

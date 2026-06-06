@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? joueurs endormis"
-=======
     "container.chest": "Coffre\uec01\uea01",
     "entity.minecraft.chest_minecart": "Wagonnet de stockage\uec02\uea02",
     "container.barrel": "Tonneau\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fRechercher",
     "itemGroup.spawnEggs": "\u00a7f\u0152ufs spawneurs",
     "itemGroup.tools": "\u00a7fOutils et utilitaires"
->>>>>>> Stashed changes
 }

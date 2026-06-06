@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? zugadori drio pisocare"
-=======
     "container.chest": "Ba\u00f9l\uec01\uea01",
     "entity.minecraft.chest_minecart": "Carel co' ba\u00f9l\uec02\uea02",
     "container.barrel": "B\u00f3ta\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSerca ozeti",
     "itemGroup.spawnEggs": "\u00a7fOvi zeneradori",
     "itemGroup.tools": "\u00a7fAtresi e utilit\u00e0"
->>>>>>> Stashed changes
 }

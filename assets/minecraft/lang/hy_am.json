@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? խաղացողները քնում են"
-=======
     "container.chest": "\u054d\u0576\u0564\u0578\u0582\u056f\uec01\uea01",
     "entity.minecraft.chest_minecart": "\u054e\u0561\u0563\u0578\u0576 \u054d\u0576\u0564\u0578\u0582\u056f\u0578\u057e\uec02\uea02",
     "container.barrel": "\u054f\u0561\u056f\u0561\u057c\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7f\u0548\u0580\u0578\u0576\u0578\u0582\u0574",
     "itemGroup.spawnEggs": "\u00a7f\u054d\u057f\u0565\u0572\u056e\u0565\u056c\u0578\u0582 \u0571\u057e\u0565\u0580",
     "itemGroup.tools": "\u00a7f\u0533\u0578\u0580\u056e\u056b\u0584\u0576\u0565\u0580 \u0587 \u0570\u0561\u0580\u0574\u0561\u0580\u0561\u0576\u0584\u0576\u0565\u0580"
->>>>>>> Stashed changes
 }

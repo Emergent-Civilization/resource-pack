@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? jucători dorm"
-=======
     "container.chest": "Cuf\u0103r\uec01\uea01",
     "entity.minecraft.chest_minecart": "Cuf\u0103r \u00een vagonet\uec02\uea02",
     "container.barrel": "Butoi\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fCaut\u0103",
     "itemGroup.spawnEggs": "\u00a7fOu\u0103 generatoare",
     "itemGroup.tools": "\u00a7fUnelte \u0219i utilit\u0103\u021bi"
->>>>>>> Stashed changes
 }

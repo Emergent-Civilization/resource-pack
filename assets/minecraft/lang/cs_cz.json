@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? hráčů spí"
-=======
     "container.chest": "Truhla\uec01\uea01",
     "entity.minecraft.chest_minecart": "N\u00e1kladn\u00ed voz\u00edk\uec02\uea02",
     "container.barrel": "Sud\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fHledat",
     "itemGroup.spawnEggs": "\u00a7fVaj\u00ed\u010dka se stvo\u0159en\u00edmi",
     "itemGroup.tools": "\u00a7fN\u00e1stroje"
->>>>>>> Stashed changes
 }

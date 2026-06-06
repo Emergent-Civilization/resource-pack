@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? gwarier ow koska"
-=======
     "container.chest": "Kist\uec01\uea01",
     "entity.minecraft.chest_minecart": "Balgert hag Kist\uec02\uea02",
     "container.barrel": "Balyer\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fHwilas Taklow",
     "itemGroup.spawnEggs": "\u00a7fOyow Bywhe",
     "itemGroup.tools": "\u00a7fToulys & Lesow"
->>>>>>> Stashed changes
 }

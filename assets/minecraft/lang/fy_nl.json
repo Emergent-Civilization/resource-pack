@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? spilers sliepe"
-=======
     "container.chest": "Kiste\uec01\uea01",
     "entity.minecraft.chest_minecart": "Mynkarre mei kist\uec02\uea02",
     "container.barrel": "Fet\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSykje",
     "itemGroup.spawnEggs": "\u00a7fSpawnaaien",
     "itemGroup.tools": "\u00a7fArk en br\u00fbksfoarwerpen"
->>>>>>> Stashed changes
 }

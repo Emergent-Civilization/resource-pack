@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? māwiltiānih kochih"
-=======
     "container.chest": "Kwapetlakalli\uec01\uea01",
     "entity.minecraft.chest_minecart": "Bagonetah \u012bka kwapetlakalli\uec02\uea02",
     "container.barrel": "Kwawkomitl\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fKit\u0113mos tlamantli",
     "itemGroup.spawnEggs": "\u00a7fY\u014dlkan\u0113xtihk\u0113tl",
     "itemGroup.tools": "\u00a7fTlach\u012bwal\u014dni"
->>>>>>> Stashed changes
 }

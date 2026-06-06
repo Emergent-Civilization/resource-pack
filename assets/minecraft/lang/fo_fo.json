@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? spælarum sova"
-=======
     "container.chest": "Kista\uec01\uea01",
     "entity.minecraft.chest_minecart": "Minecart with Chest\uec02\uea02",
     "container.barrel": "Tunna\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fLeita lutir",
     "itemGroup.spawnEggs": "\u00a7fFramkallingaregg",
     "itemGroup.tools": "\u00a7fTools & Utilities"
->>>>>>> Stashed changes
 }

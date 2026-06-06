@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? na manlalaro na natutulog"
-=======
     "container.chest": "Baul\uec01\uea01",
     "entity.minecraft.chest_minecart": "Karitela na may Baul\uec02\uea02",
     "container.barrel": "Bariles\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fHanapin",
     "itemGroup.spawnEggs": "\u00a7fPanlikhang Itlog",
     "itemGroup.tools": "\u00a7fTools & Utilities"
->>>>>>> Stashed changes
 }

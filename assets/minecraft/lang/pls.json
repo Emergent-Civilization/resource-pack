@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? players sleeping"
-=======
     "container.chest": "Nth\u00e0kaj\u00f3n\uec01\uea01",
     "entity.minecraft.chest_minecart": "Nth\u00e0bagon kun\u00edxin nth\u00e0kaj\u00f3n\uec02\uea02",
     "container.barrel": "Ku\u00f1eete\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSikjee ke\ua78ce",
     "itemGroup.spawnEggs": "\u00a7fKux\u00ed\u00edgu",
     "itemGroup.tools": "\u00a7fNth\u00e0\u00e0"
->>>>>>> Stashed changes
 }

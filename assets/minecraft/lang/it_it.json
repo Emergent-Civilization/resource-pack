@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? giocatori stanno dormendo"
-=======
     "container.chest": "Baule\uec01\uea01",
     "entity.minecraft.chest_minecart": "Vagonetto con baule\uec02\uea02",
     "container.barrel": "Barile\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fRicerca",
     "itemGroup.spawnEggs": "\u00a7fUova generatrici",
     "itemGroup.tools": "\u00a7fAttrezzi e utilit\u00e0"
->>>>>>> Stashed changes
 }

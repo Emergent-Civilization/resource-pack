@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? Spielan schlafn"
-=======
     "container.chest": "Kistn\uec01\uea01",
     "entity.minecraft.chest_minecart": "G\u00fctalore\uec02\uea02",
     "container.barrel": "Fassl\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSuache",
     "itemGroup.spawnEggs": "\u00a7fSpan Oaer",
     "itemGroup.tools": "\u00a7fWergzeuch & Hilfsmittl"
->>>>>>> Stashed changes
 }

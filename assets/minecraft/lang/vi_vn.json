@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? người chơi đang ngủ"
-=======
     "container.chest": "R\u01b0\u01a1ng\uec01\uea01",
     "entity.minecraft.chest_minecart": "Xe m\u1ecf c\u00f3 r\u01b0\u01a1ng\uec02\uea02",
     "container.barrel": "Th\u00f9ng\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fT\u00ecm v\u1eadt ph\u1ea9m",
     "itemGroup.spawnEggs": "\u00a7fTr\u1ee9ng sinh ra",
     "itemGroup.tools": "\u00a7fC\u00f4ng c\u1ee5 & ti\u1ec7n \u00edch"
->>>>>>> Stashed changes
 }

@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? pemain sedang tidur"
-=======
     "container.chest": "Peti\uec01\uea01",
     "entity.minecraft.chest_minecart": "Kereta Lombong dengan Peti\uec02\uea02",
     "container.barrel": "Tahang\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fCari Item",
     "itemGroup.spawnEggs": "\u00a7fTelur Penjelmaan",
     "itemGroup.tools": "\u00a7fAlatan dan Kemudahan"
->>>>>>> Stashed changes
 }

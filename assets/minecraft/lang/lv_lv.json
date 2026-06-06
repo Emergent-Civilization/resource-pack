@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "?? no ?? spēlētājam guļ"
-=======
     "container.chest": "L\u0101de\uec01\uea01",
     "entity.minecraft.chest_minecart": "Vagons ar l\u0101di\uec02\uea02",
     "container.barrel": "Muca\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fMekl\u0113t priek\u0161metus",
     "itemGroup.spawnEggs": "\u00a7fRad\u012b\u0161anas olas",
     "itemGroup.tools": "\u00a7fR\u012bki & util\u012btas"
->>>>>>> Stashed changes
 }

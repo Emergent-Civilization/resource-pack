@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? sgiugador inn 'dree a dormì"
-=======
     "container.chest": "Cesta\uec01\uea01",
     "entity.minecraft.chest_minecart": "Carrell con cesta\uec02\uea02",
     "container.barrel": "Baril\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fCerca",
     "itemGroup.spawnEggs": "\u00a7fOeuv sgenerador",
     "itemGroup.tools": "\u00a7fArnea e utilit\u00e0"
->>>>>>> Stashed changes
 }

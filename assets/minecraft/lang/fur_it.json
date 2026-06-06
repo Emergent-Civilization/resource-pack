@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? zuiadôrs indurmidîts"
-=======
     "container.chest": "Ba\u00fbl\uec01\uea01",
     "entity.minecraft.chest_minecart": "Carel minerari cun ba\u00fbl\uec02\uea02",
     "container.barrel": "Caratel\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fC\u00eer ogjets",
     "itemGroup.spawnEggs": "\u00a7f\u00dbfs di nassite",
     "itemGroup.tools": "\u00a7fImprescj e utilit\u00e2ts"
->>>>>>> Stashed changes
 }

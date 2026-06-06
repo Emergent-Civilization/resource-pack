@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? igralcev spi"
-=======
     "container.chest": "Skrinja\uec01\uea01",
     "entity.minecraft.chest_minecart": "Vozi\u010dek s skrinjo\uec02\uea02",
     "container.barrel": "Sod\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fVsi predmeti",
     "itemGroup.spawnEggs": "\u00a7fPriklicna jaj\u010dka",
     "itemGroup.tools": "\u00a7fOrodja & pripomo\u010dki"
->>>>>>> Stashed changes
 }

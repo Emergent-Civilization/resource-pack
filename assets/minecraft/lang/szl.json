@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "Śpiōncy grŏcze: ???"
-=======
     "container.chest": "Kastla\uec01\uea01",
     "entity.minecraft.chest_minecart": "Wag\u014dn ze kastl\u014dm\uec02\uea02",
     "container.barrel": "Faska\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSzukej",
     "itemGroup.spawnEggs": "\u00a7fJajca",
     "itemGroup.tools": "\u00a7fWerkcojgi a narychty"
->>>>>>> Stashed changes
 }

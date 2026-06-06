@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "jan ?? tan jan ?? li lape"
-=======
     "container.chest": "poki\uec01\uea01",
     "entity.minecraft.chest_minecart": "poki ijo lon poki tawa\uec02\uea02",
     "container.barrel": "poki sike\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fo alasa e ijo",
     "itemGroup.spawnEggs": "\u00a7fsike mama",
     "itemGroup.tools": "\u00a7filo luka"
->>>>>>> Stashed changes
 }

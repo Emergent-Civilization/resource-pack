@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? spelliin ođđet"
-=======
     "container.chest": "Giis\u00e1\uec01\uea01",
     "entity.minecraft.chest_minecart": "Roggangielk\u00e1 mas giis\u00e1\uec02\uea02",
     "container.barrel": "F\u00e1rppal\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fOza d\u00e1vviriid",
     "itemGroup.spawnEggs": "\u00a7fEal\u00e1skanmonit",
     "itemGroup.tools": "\u00a7fReaiddut & atnod\u00e1vvirat"
->>>>>>> Stashed changes
 }

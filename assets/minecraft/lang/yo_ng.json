@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "?? ?? awọn ẹrọ orin sisun"
-=======
     "container.chest": "\u00c0y\u00e0\uec01\uea01",
     "entity.minecraft.chest_minecart": "Minecart p\u1eb9lu \u00e0ya\uec02\uea02",
     "container.barrel": "Keg\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSearch Aw\u1ecdn ohun kan",
     "itemGroup.spawnEggs": "\u00a7fAw\u1ecdn \u1eb8yin ti a pa",
     "itemGroup.tools": "\u00a7fAw\u1ecdn irin\u1e63\u1eb9 & Aw\u1ecdn ohun elo"
->>>>>>> Stashed changes
 }

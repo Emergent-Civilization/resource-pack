@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? mängijat magavad"
-=======
     "container.chest": "Kirst\uec01\uea01",
     "entity.minecraft.chest_minecart": "Kirstuga kaevandusk\u00e4ru\uec02\uea02",
     "container.barrel": "T\u00fcnn\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fOtsi esemeid",
     "itemGroup.spawnEggs": "\u00a7fS\u00fcnnimunad",
     "itemGroup.tools": "\u00a7fT\u00f6\u00f6riistad ja abivahendid"
->>>>>>> Stashed changes
 }

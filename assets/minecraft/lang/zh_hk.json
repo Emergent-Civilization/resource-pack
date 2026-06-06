@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? 名玩家瞓緊覺"
-=======
     "container.chest": "\u5132\u7269\u7bb1\uec01\uea01",
     "entity.minecraft.chest_minecart": "\u5132\u7269\u7bb1\u7926\u8eca\uec02\uea02",
     "container.barrel": "\u6728\u6876\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7f\u641c\u5c0b\u7269\u54c1",
     "itemGroup.spawnEggs": "\u00a7f\u751f\u6210\u86cb",
     "itemGroup.tools": "\u00a7f\u5de5\u5177\u8207\u5be6\u7528\u7269\u54c1"
->>>>>>> Stashed changes
 }

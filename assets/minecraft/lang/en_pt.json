@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? sailors snorin'"
-=======
     "container.chest": "Coffer\uec01\uea01",
     "entity.minecraft.chest_minecart": "Coffer in a landlubbers' boat\uec02\uea02",
     "container.barrel": "Barrrel\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSearch loot",
     "itemGroup.spawnEggs": "\u00a7fCackle fruits",
     "itemGroup.tools": "\u00a7fNifty objects"
->>>>>>> Stashed changes
 }

@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? kats sleepin"
-=======
     "container.chest": "Kat Box\uec01\uea01",
     "entity.minecraft.chest_minecart": "Minecat wif Cat Box\uec02\uea02",
     "container.barrel": "Fish box\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSaerhc Itmz",
     "itemGroup.spawnEggs": "\u00a7fspon ecs",
     "itemGroup.tools": "\u00a7ftoolz & ulitelites"
->>>>>>> Stashed changes
 }

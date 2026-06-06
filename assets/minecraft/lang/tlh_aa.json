@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "QongtaH ???"
-=======
     "container.chest": "DerlIq\uec01\uea01",
     "entity.minecraft.chest_minecart": "DerlIq ghajbogh tlhIlHal Duj'e'\uec02\uea02",
     "container.barrel": "qegh\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fDoch nej",
     "itemGroup.spawnEggs": "\u00a7fboghmoHbogh QIm",
     "itemGroup.tools": "\u00a7fSommI'"
->>>>>>> Stashed changes
 }

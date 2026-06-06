@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? Spieler schlofet"
-=======
     "container.chest": "Chiste\uec01\uea01",
     "entity.minecraft.chest_minecart": "G\u00fceterlore\uec02\uea02",
     "container.barrel": "Fass\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSueche",
     "itemGroup.spawnEggs": "\u00a7fSpawn-Eier",
     "itemGroup.tools": "\u00a7fWerkz\u00fc\u00fcg & Hilfsmittel"
->>>>>>> Stashed changes
 }

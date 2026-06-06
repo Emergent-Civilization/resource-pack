@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? c'hoarier o kousket"
-=======
     "container.chest": "Koufr\uec01\uea01",
     "entity.minecraft.chest_minecart": "Bagon vengleuz gant ur c'houfr\uec02\uea02",
     "container.barrel": "Tonell\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fKlask objedo\u00f9",
     "itemGroup.spawnEggs": "\u00a7fVio\u00f9 genel",
     "itemGroup.tools": "\u00a7fOstilho\u00f9 ha riko\u00f9"
->>>>>>> Stashed changes
 }

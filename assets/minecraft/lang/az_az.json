@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? oyunçu yatır"
-=======
     "container.chest": "Sand\u0131q\uec01\uea01",
     "entity.minecraft.chest_minecart": "Sand\u0131ql\u0131 Vaqon\uec02\uea02",
     "container.barrel": "\u00c7\u0259ll\u0259k\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7f\u018f\u015fya Axtar",
     "itemGroup.spawnEggs": "\u00a7fK\u00fcr\u00fc Yumurtalar\u0131",
     "itemGroup.tools": "\u00a7fAl\u0259tl\u0259r v\u0259 Utilitl\u0259r"
->>>>>>> Stashed changes
 }

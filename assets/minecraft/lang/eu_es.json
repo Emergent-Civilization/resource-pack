@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? jokalari lo daude"
-=======
     "container.chest": "Kutxa\uec01\uea01",
     "entity.minecraft.chest_minecart": "Bagoneta kutxarekin\uec02\uea02",
     "container.barrel": "Upela\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fBilatu",
     "itemGroup.spawnEggs": "\u00a7fIzakiak sortzeko",
     "itemGroup.tools": "\u00a7fTresnak eta baliabideak"
->>>>>>> Stashed changes
 }

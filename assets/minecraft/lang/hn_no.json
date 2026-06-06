@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? players sleeping"
-=======
     "container.chest": "Kista\uec01\uea01",
     "entity.minecraft.chest_minecart": "Malmvogn med kista\uec02\uea02",
     "container.barrel": "Tunna\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fLeita",
     "itemGroup.spawnEggs": "\u00a7fKveikjeegg",
     "itemGroup.tools": "\u00a7fT\u00f8lor og amb\u00f2d"
->>>>>>> Stashed changes
 }

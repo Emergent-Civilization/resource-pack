@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? lojtarë duke fjetur"
-=======
     "container.chest": "Ark\u00eb\uec01\uea01",
     "entity.minecraft.chest_minecart": "Karroc\u00eb me Ark\u00eb\uec02\uea02",
     "container.barrel": "Fu\u00e7i\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fKerko artikuj",
     "itemGroup.spawnEggs": "\u00a7fVez\u00eb L\u00ebshimi",
     "itemGroup.tools": "\u00a7fMjete"
->>>>>>> Stashed changes
 }

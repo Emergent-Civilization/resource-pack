@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? jugadors dormint"
-=======
     "container.chest": "Cofre\uec01\uea01",
     "entity.minecraft.chest_minecart": "Vagoneta amb cofre\uec02\uea02",
     "container.barrel": "Barril\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fBuscar \u00edtems",
     "itemGroup.spawnEggs": "\u00a7fOus de generaci\u00f3",
     "itemGroup.tools": "\u00a7fEines"
->>>>>>> Stashed changes
 }

@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? hugaórê durmiendo"
-=======
     "container.chest": "Ba\u00fbh\uec01\uea01",
     "entity.minecraft.chest_minecart": "Bagoneta con ba\u00fbh\uec02\uea02",
     "container.barrel": "Barr\u00eeh\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fB\u00fbccad\u00f4h",
     "itemGroup.spawnEggs": "\u00a7fGueb\u00f4 henerador\u00ea",
     "itemGroup.tools": "\u00a7fHerramient\u00e2 y \u00fatil\u00ea"
->>>>>>> Stashed changes
 }

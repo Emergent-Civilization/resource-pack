@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? pelaajista nukkumassa"
-=======
     "container.chest": "Arkku\uec01\uea01",
     "entity.minecraft.chest_minecart": "Arkullinen kaivosvaunu\uec02\uea02",
     "container.barrel": "Tynnyri\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fEtsi esineit\u00e4",
     "itemGroup.spawnEggs": "\u00a7fLuomismunat",
     "itemGroup.tools": "\u00a7fTy\u00f6kalut"
->>>>>>> Stashed changes
 }

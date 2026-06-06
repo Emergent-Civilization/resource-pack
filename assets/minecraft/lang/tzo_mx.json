@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? players sleeping"
-=======
     "container.chest": "Kaxa\uec01\uea01",
     "entity.minecraft.chest_minecart": "Vakon xchi'uk kaxa\uec02\uea02",
     "container.barrel": "Varil\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fTa sa' k'usitik",
     "itemGroup.spawnEggs": "\u00a7fChanuletik",
     "itemGroup.tools": "\u00a7fAbtejebaletik"
->>>>>>> Stashed changes
 }

@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? graczy śpi"
-=======
     "container.chest": "Skrzynia\uec01\uea01",
     "entity.minecraft.chest_minecart": "Wagonik ze skrzyni\u0105\uec02\uea02",
     "container.barrel": "Beczka\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSzukaj",
     "itemGroup.spawnEggs": "\u00a7fJaja przyzywaj\u0105ce",
     "itemGroup.tools": "\u00a7fNarz\u0119dzia i przybory"
->>>>>>> Stashed changes
 }

@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? players sleeping"
-=======
     "container.chest": "Coffer\uec01\uea01",
     "entity.minecraft.chest_minecart": "Waggon with Chest\uec02\uea02",
     "container.barrel": "Keg\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSearch Items",
     "itemGroup.spawnEggs": "\u00a7fAdder Stones",
     "itemGroup.tools": "\u00a7fTools"
->>>>>>> Stashed changes
 }

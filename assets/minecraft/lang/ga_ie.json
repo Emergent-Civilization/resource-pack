@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? imreoir ina gcodladh"
-=======
     "container.chest": "C\u00f3fra\uec01\uea01",
     "entity.minecraft.chest_minecart": "Cairt Mianaigh le C\u00f3fra\uec02\uea02",
     "container.barrel": "Bairille\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fCuardaigh",
     "itemGroup.spawnEggs": "\u00a7fUibheacha Gini\u00fana",
     "itemGroup.tools": "\u00a7fUirlis\u00ed \u204a F\u00f3ntais"
->>>>>>> Stashed changes
 }

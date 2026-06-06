@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "?? el ?? ludantoj dormas"
-=======
     "container.chest": "Kofro\uec01\uea01",
     "entity.minecraft.chest_minecart": "Vagoneto kun kofro\uec02\uea02",
     "container.barrel": "Barelo\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSer\u0109i",
     "itemGroup.spawnEggs": "\u00a7fAperigovoj",
     "itemGroup.tools": "\u00a7fIloj kaj utila\u0135oj"
->>>>>>> Stashed changes
 }

@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? e hiamoe ana nā mea pāʻani"
-=======
     "container.chest": "Pahu\uec01\uea01",
     "entity.minecraft.chest_minecart": "Ka\u02bba-mine me Pahu\uec02\uea02",
     "container.barrel": "Barela\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fN\u0101 Mea Huli",
     "itemGroup.spawnEggs": "\u00a7fHua H\u0101nau",
     "itemGroup.tools": "\u00a7fN\u0101 mea hana a me n\u0101 pono"
->>>>>>> Stashed changes
 }

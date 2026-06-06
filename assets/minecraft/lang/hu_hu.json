@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? játékos alszik"
-=======
     "container.chest": "L\u00e1da\uec01\uea01",
     "entity.minecraft.chest_minecart": "T\u00e1rol\u00f3csille\uec02\uea02",
     "container.barrel": "Hord\u00f3\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fKeres\u00e9s",
     "itemGroup.spawnEggs": "\u00a7fId\u00e9z\u0151toj\u00e1sok",
     "itemGroup.tools": "\u00a7fEszk\u00f6z\u00f6k"
->>>>>>> Stashed changes
 }

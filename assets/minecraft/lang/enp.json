@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? players sleeping"
-=======
     "container.chest": "Chest\uec01\uea01",
     "entity.minecraft.chest_minecart": "Delvewain with Chest\uec02\uea02",
     "container.barrel": "Vat\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSeek Things",
     "itemGroup.spawnEggs": "\u00a7fMaking Eyren",
     "itemGroup.tools": "\u00a7fTools"
->>>>>>> Stashed changes
 }

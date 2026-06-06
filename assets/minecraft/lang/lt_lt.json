@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? žaidėjų miega"
-=======
     "container.chest": "Skrynia\uec01\uea01",
     "entity.minecraft.chest_minecart": "Vagon\u0117lis su skrynia\uec02\uea02",
     "container.barrel": "Statin\u0117\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fIe\u0161koti daikt\u0173",
     "itemGroup.spawnEggs": "\u00a7fSuformuot\u0173 padar\u0173 kiau\u0161iniai",
     "itemGroup.tools": "\u00a7f\u012erankiai"
->>>>>>> Stashed changes
 }

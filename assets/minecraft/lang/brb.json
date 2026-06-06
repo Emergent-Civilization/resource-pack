@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? speulers slaope"
-=======
     "container.chest": "Kist\uec01\uea01",
     "entity.minecraft.chest_minecart": "Mijnkar met kist\uec02\uea02",
     "container.barrel": "Vat\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fZuuke",
     "itemGroup.spawnEggs": "\u00a7fSpawneieren",
     "itemGroup.tools": "\u00a7fGereedschap en gebruiksvoorwerpen"
->>>>>>> Stashed changes
 }

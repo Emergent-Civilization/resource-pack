@@ -1,14 +1,1 @@
-<<<<<<< Updated upstream
-{
-  "pack": {
-    "pack_format": 64,
-    "description": "Make Numbers into Words",
-    "supported_formats": {
-      "min_inclusive": 30,
-      "max_inclusive": 999
-    }
-  }
-}
-=======
 {"overlays":{"entries":[{"directory":"1_20_5_remove_shulker_head_overlay","min_format":[24,0],"max_format":[1000,0],"formats":[24,1000]},{"directory":"ce_overlay_75-84","min_format":[75,0],"max_format":[84,0],"formats":[75,84]}]},"pack":{"description":{"color":"gray","text":"Civlabs Resourcepack"},"min_format":[75,0],"max_format":[84,0]}}
->>>>>>> Stashed changes

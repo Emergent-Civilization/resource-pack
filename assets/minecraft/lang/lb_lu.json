@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? Spiller sinn um schlofen"
-=======
     "container.chest": "K\u00ebscht\uec01\uea01",
     "entity.minecraft.chest_minecart": "Gidderbuggi\uec02\uea02",
     "container.barrel": "Faass\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSichen",
     "itemGroup.spawnEggs": "\u00a7fSpawn-Eer",
     "itemGroup.tools": "\u00a7fGeschier & H\u00ebllefsm\u00ebttel"
->>>>>>> Stashed changes
 }

@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? cluicheadairean nan cadal"
-=======
     "container.chest": "Ciste\uec01\uea01",
     "entity.minecraft.chest_minecart": "Cairt-mh\u00e8innearachd le ciste\uec02\uea02",
     "container.barrel": "Baraill\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fLorg",
     "itemGroup.spawnEggs": "\u00a7fUighean ginntinn",
     "itemGroup.tools": "\u00a7fInnealan \u204a Goireasachdean"
->>>>>>> Stashed changes
 }

@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? tyalindor lórar"
-=======
     "container.chest": "Taucolca\uec01\uea01",
     "entity.minecraft.chest_minecart": "Raxa as taucolca\uec02\uea02",
     "container.barrel": "Corcolca\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fCes\u00eb nati",
     "itemGroup.spawnEggs": "\u00a7fEtyalil\u00eb ohti",
     "itemGroup.tools": "\u00a7fTammar"
->>>>>>> Stashed changes
 }

@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? leikmanna sofa"
-=======
     "container.chest": "Kista\uec01\uea01",
     "entity.minecraft.chest_minecart": "N\u00e1muvagn me\u00f0 Kistu\uec02\uea02",
     "container.barrel": "Tunna\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fLeita a\u00f0 hlutum",
     "itemGroup.spawnEggs": "\u00a7fFramk\u00f6llunaregg",
     "itemGroup.tools": "\u00a7fVerkf\u00e6ri og nytjag\u00f6gn"
->>>>>>> Stashed changes
 }

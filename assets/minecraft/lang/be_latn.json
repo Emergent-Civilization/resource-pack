@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? players sleeping"
-=======
     "container.chest": "Kufar\uec01\uea01",
     "entity.minecraft.chest_minecart": "Vahanietka z kufram\uec02\uea02",
     "container.barrel": "Bo\u010dka\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fPo\u0161uk",
     "itemGroup.spawnEggs": "\u00a7fJajki pryzyvu",
     "itemGroup.tools": "\u00a7fPry\u0142ady i srodki"
->>>>>>> Stashed changes
 }

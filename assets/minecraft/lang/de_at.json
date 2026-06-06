@@ -1,7 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "sleep.players_sleeping": "??? Spielo' schlofn"
-=======
     "container.chest": "Kistn\uec01\uea01",
     "entity.minecraft.chest_minecart": "Wagon mit Kistn\uec02\uea02",
     "container.barrel": "Foss\uec03\uea03",
@@ -64,5 +61,4 @@
     "itemGroup.search": "\u00a7fSuche",
     "itemGroup.spawnEggs": "\u00a7fSpawn-Eia",
     "itemGroup.tools": "\u00a7fTools & H\u00fcfsmittl"
->>>>>>> Stashed changes
 }
