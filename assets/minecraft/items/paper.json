@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
     "model": {
         "type": "minecraft:select",
@@ -43,3 +44,6 @@
                 }
     }
 }
+=======
+{"model":{"type":"minecraft:select","property":"minecraft:custom_model_data","cases":[{"when":"bandage","model":{"type":"minecraft:range_dispatch","property":"minecraft:count","scale":64,"entries":[{"threshold":0,"model":{"type":"minecraft:model","model":"specialization:item/bandage"}},{"threshold":6,"model":{"type":"minecraft:model","model":"specialization:item/bandage_over_six"}}]}},{"when":"axe_blueprint","model":{"type":"minecraft:model","model":"specialization:item/axe_blueprint"}},{"when":"boots_blueprint","model":{"type":"minecraft:model","model":"specialization:item/boots_blueprint"}},{"when":"bow_blueprint","model":{"type":"minecraft:model","model":"specialization:item/bow_blueprint"}},{"when":"chestplate_blueprint","model":{"type":"minecraft:model","model":"specialization:item/chestplate_blueprint"}},{"when":"crossbow_blueprint","model":{"type":"minecraft:model","model":"specialization:item/crossbow_blueprint"}},{"when":"helmet_blueprint","model":{"type":"minecraft:model","model":"specialization:item/helmet_blueprint"}},{"when":"hoe_blueprint","model":{"type":"minecraft:model","model":"specialization:item/hoe_blueprint"}},{"when":"leggings_blueprint","model":{"type":"minecraft:model","model":"specialization:item/leggings_blueprint"}},{"when":"pickaxe_blueprint","model":{"type":"minecraft:model","model":"specialization:item/pickaxe_blueprint"}},{"when":"shovel_blueprint","model":{"type":"minecraft:model","model":"specialization:item/shovel_blueprint"}},{"when":"spear_blueprint","model":{"type":"minecraft:model","model":"specialization:item/spear_blueprint"}},{"when":"sword_blueprint","model":{"type":"minecraft:model","model":"specialization:item/sword_blueprint"}}],"fallback":{"type":"minecraft:model","model":"minecraft:item/paper"}}}
+>>>>>>> Stashed changes

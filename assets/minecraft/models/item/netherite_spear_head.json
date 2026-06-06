@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 {
     "parent": "item/netherite_ingot",
     "textures": {
         "layer0": "item/netherite_spear_head"
     }
 }
+=======
+{"parent":"item/netherite_ingot","textures":{"layer0":"item/netherite_spear_head"}}
+>>>>>>> Stashed changes

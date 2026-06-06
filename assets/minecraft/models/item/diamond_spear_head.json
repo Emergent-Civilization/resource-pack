@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 {
     "parent": "item/diamond",
     "textures": {
         "layer0": "item/diamond_spear_head"
     }
 }
+=======
+{"parent":"item/diamond","textures":{"layer0":"item/diamond_spear_head"}}
+>>>>>>> Stashed changes

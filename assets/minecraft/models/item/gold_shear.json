@@ -1,6 +1,1 @@
-{
-    "parent": "item/shears",
-    "textures": {
-        "layer0": "item/gold_shear"
-    }
-}
+{"parent":"item/shears","textures":{"layer0":"item/gold_shear"}}

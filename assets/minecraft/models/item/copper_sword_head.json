@@ -1,6 +1,1 @@
-{
-    "parent": "item/copper_ingot",
-    "textures": {
-        "layer0": "item/copper_sword_head"
-    }
-}
+{"parent":"item/copper_ingot","textures":{"layer0":"item/copper_sword_head"}}

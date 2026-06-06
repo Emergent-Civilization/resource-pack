@@ -1,6 +1,1 @@
-{
-    "parent": "item/shears",
-    "textures": {
-        "layer0": "item/copper_shear"
-    }
-}
+{"parent":"item/shears","textures":{"layer0":"item/copper_shear"}}

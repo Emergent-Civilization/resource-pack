@@ -1,6 +1,1 @@
-{
-    "parent": "item/stick",
-    "textures": {
-        "layer0": "item/tool_handle"
-    }
-}
+{"parent":"item/stick","textures":{"layer0":"item/tool_handle"}}

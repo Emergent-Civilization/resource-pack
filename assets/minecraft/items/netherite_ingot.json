@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
     "model": {
         "type": "select",
@@ -101,3 +102,6 @@
         ]
     }
 }
+=======
+{"model":{"type":"minecraft:select","property":"minecraft:custom_model_data","fallback":{"type":"minecraft:model","model":"minecraft:item/netherite_ingot"},"cases":[{"when":"armor_plate_netherite","model":{"type":"minecraft:model","model":"minecraft:item/armor_plate_netherite"}},{"when":"netherite_armor_plateset","model":{"type":"minecraft:model","model":"minecraft:item/netherite_armor_plateset"}},{"when":"netherite_helm","model":{"type":"minecraft:model","model":"minecraft:item/netherite_helm"}},{"when":"netherite_breastplate","model":{"type":"minecraft:model","model":"minecraft:item/netherite_breastplate"}},{"when":"netherite_greaves","model":{"type":"minecraft:model","model":"minecraft:item/netherite_greaves"}},{"when":"netherite_sabaton","model":{"type":"minecraft:model","model":"minecraft:item/netherite_sabaton"}},{"when":"netherite_sword_head","model":{"type":"minecraft:model","model":"minecraft:item/netherite_sword_head"}},{"when":"netherite_axe_head","model":{"type":"minecraft:model","model":"minecraft:item/netherite_axe_head"}},{"when":"netherite_pickaxe_head","model":{"type":"minecraft:model","model":"minecraft:item/netherite_pickaxe_head"}},{"when":"netherite_hoe_head","model":{"type":"minecraft:model","model":"minecraft:item/netherite_hoe_head"}},{"when":"netherite_shovel_head","model":{"type":"minecraft:model","model":"minecraft:item/netherite_shovel_head"}},{"when":"netherite_spear_head","model":{"type":"minecraft:model","model":"minecraft:item/netherite_spear_head"}}]}}
+>>>>>>> Stashed changes

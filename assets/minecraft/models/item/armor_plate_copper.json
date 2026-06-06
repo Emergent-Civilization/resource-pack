@@ -1,6 +1,1 @@
-{
-    "parent": "item/copper_ingot",
-    "textures": {
-        "layer0": "item/armor_plate_copper"
-    }
-}
+{"parent":"item/copper_ingot","textures":{"layer0":"item/armor_plate_copper"}}

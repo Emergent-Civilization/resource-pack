@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
     "model": {
         "type": "select",
@@ -101,3 +102,6 @@
         ]
     }
 }
+=======
+{"model":{"type":"minecraft:select","property":"minecraft:custom_model_data","fallback":{"type":"minecraft:model","model":"minecraft:item/gold_ingot"},"cases":[{"when":"armor_plate_gold","model":{"type":"minecraft:model","model":"minecraft:item/armor_plate_gold"}},{"when":"gold_armor_plateset","model":{"type":"minecraft:model","model":"minecraft:item/gold_armor_plateset"}},{"when":"heated_gold_stack","model":{"type":"minecraft:model","model":"minecraft:item/heated_gold_stack"}},{"when":"gold_helm","model":{"type":"minecraft:model","model":"minecraft:item/gold_helm"}},{"when":"gold_breastplate","model":{"type":"minecraft:model","model":"minecraft:item/gold_breastplate"}},{"when":"gold_greaves","model":{"type":"minecraft:model","model":"minecraft:item/gold_greaves"}},{"when":"gold_sabaton","model":{"type":"minecraft:model","model":"minecraft:item/gold_sabaton"}},{"when":"gold_sword_head","model":{"type":"minecraft:model","model":"minecraft:item/gold_sword_head"}},{"when":"gold_axe_head","model":{"type":"minecraft:model","model":"minecraft:item/gold_axe_head"}},{"when":"gold_pickaxe_head","model":{"type":"minecraft:model","model":"minecraft:item/gold_pickaxe_head"}},{"when":"gold_hoe_head","model":{"type":"minecraft:model","model":"minecraft:item/gold_hoe_head"}},{"when":"gold_shovel_head","model":{"type":"minecraft:model","model":"minecraft:item/gold_shovel_head"}},{"when":"gold_spear_head","model":{"type":"minecraft:model","model":"minecraft:item/gold_spear_head"}}]}}
+>>>>>>> Stashed changes

@@ -1,6 +1,1 @@
-{
-    "parent": "item/paper",
-    "textures": {
-        "layer0": "item/blueprint"
-    }
-}
+{"parent":"item/paper","textures":{"layer0":"item/blueprint"}}
